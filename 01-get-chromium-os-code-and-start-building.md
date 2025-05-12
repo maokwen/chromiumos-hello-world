@@ -189,7 +189,7 @@ Connect to vm using vnc:
 vncviewer localhost:5900
 ```
 
-[vnc](img/Screenshot_2025-05-12_07-17-21.png)
+![tigervnc setting](img/Screenshot_2025-05-12_07-17-21.png)
 
 ### A SSH error
 
@@ -265,7 +265,7 @@ chromiumos$ cros vm --start --image-path=~/chromiumos/src/build/images/${BOARD}/
 
 Press F8, open TigerVNC setting, enable local cursor.
 
-[](img/Screenshot_2025-05-12_09-18-48.png)
+![screenshot](img/Screenshot_2025-05-12_09-18-48.png)
 
 ### Login process stuck on "Please wait..." - Fix API Key not found
 
