@@ -58,3 +58,5 @@ chromiumos/src$ find . -name '*5_15*' -print0 \
 ```
 
 Rebuild the image.
+
+![replace-kernel](img/Screenshot_2025-05-13_07-53-00.png)
